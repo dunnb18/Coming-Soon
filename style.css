@@ -1,0 +1,20 @@
+img{
+    height: 600px;
+    width: 600px;
+    margin: 0;
+    
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-left: 20%;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding-right: 15rem;
+    
+}
